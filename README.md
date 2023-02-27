@@ -33,7 +33,7 @@ passes the tests.
 Set up a serializer for `Author` that returns the following JSON:
 
 1. The author's `name`
-2. The author's `profile`, including only the `username`, `email`, `bio` and
+2. The author's `profile`, including only the `use name`, `email`, `bio` and
    `avatar_url`
 3. A list of the author's posts, including:
 
